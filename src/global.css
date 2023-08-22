@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Russo One', sans-serif;
+}
+
+body{
+    background: linear-gradient(rgba(6, 6, 6, .56), rgba(6, 6, 6, 0.6852),  rgba(6, 6, 6, 0.7414),rgba(6, 6, 6, 1));
+}

@@ -1,0 +1,11 @@
+.Conteiner{
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+}
+
+.Conteiner img{
+    width: 500px;
+    height: 500px;
+}
