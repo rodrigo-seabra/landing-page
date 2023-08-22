@@ -1,4 +1,4 @@
-footer{
+.Noturno{
     background-color: black;
     display: flex;
     justify-content: space-around;
@@ -6,6 +6,20 @@ footer{
 
 }
 
-.text span{
+.Noturno span{
     color: white;
 }
+
+.Dia{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Dia span{
+    color: rgb(0, 0, 0);
+}
+
+

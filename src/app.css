@@ -1,0 +1,8 @@
+.Page{
+    background: linear-gradient(rgba(6, 6, 6, .56), rgba(6, 6, 6, 0.6852),  rgba(6, 6, 6, 0.7414),rgba(6, 6, 6, 1));
+}
+
+.PageWhite{
+    background: linear-gradient(rgba(238, 238, 238, 0.56), rgba(225, 224, 224, 0.685),  rgba(215, 215, 215, 0.741),rgb(202, 202, 202));
+
+}

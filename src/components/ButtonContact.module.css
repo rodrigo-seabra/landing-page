@@ -18,6 +18,7 @@
   }
   
   .button:hover {
+    cursor: pointer;
     background: rgb(0, 0, 0);
     box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.815);
     -webkit-transition: all 0.2s ease-out;
@@ -40,8 +41,8 @@
     top: 7%;
     left: 0%;
     opacity: 0;
-    background: #000000;
-    box-shadow: 0 0 50px 30px #000000;
+    background: #232323;
+    box-shadow: 0 0 50px 30px #ffffff;
     -webkit-transform: skewX(-20deg);
     -moz-transform: skewX(-20deg);
     -ms-transform: skewX(-20deg);

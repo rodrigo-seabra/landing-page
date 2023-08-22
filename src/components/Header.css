@@ -10,3 +10,17 @@ header{
     align-items: center;
     gap: 2rem;
 }
+
+.Dia{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+.ButtonsW{
+    display: flex;
+    align-items: center;
+    gap: 2;
+    color: rgb(255, 255, 255);
+
+}

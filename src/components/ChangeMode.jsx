@@ -3,7 +3,7 @@ import Style from "./ChangeMode.module.css"
 
 const ChangeMode = (props) => {
   return (
-    <button className={Style.btn}>
+    <button className={Style.btn} onClick={props.funcao}>
         <img src={props.btn} />
     </button>
   )
